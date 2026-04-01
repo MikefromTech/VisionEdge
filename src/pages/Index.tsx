@@ -23,7 +23,7 @@ import cr11 from "@/assets/cr11.jpg";
 import cr12 from "@/assets/cr12.jpg";
 
 const services = [
-  { icon: FileCheck, title: "Company Registration & Regulatory Compliance", desc: "Formation, licensing, tax compliance, and statutory monitoring.", bg: cr1, anchor: "registration" },
+  { icon: FileCheck, title: "Company Registration, Re-registration & Regulatory Compliance", desc: "Formation, licensing, tax compliance, and statutory monitoring.", bg: cr1, anchor: "registration" },
   { icon: Briefcase, title: "Corporate Secretarial Services", desc: "Statutory records, annual returns, board coordination, and governance.", bg: cr3, anchor: "secretarial" },
   { icon: TrendingUp, title: "Business Advisory & Strategy", desc: "Business planning, restructuring, feasibility studies, and strategy.", bg: cr11, anchor: "advisory" },
   { icon: Megaphone, title: "Digital Marketing & Brand Services", desc: "Digital strategy, social media, SEO, and campaign management.", bg: cr5, anchor: "marketing" },
