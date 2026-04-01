@@ -19,11 +19,11 @@ import cr14 from "@/assets/cr14.jpg";
 const services = [
   {
     icon: FileCheck,
-    title: "Company Registration & Regulatory Compliance",
+    title: "Company Registration, Re-registration & Regulatory Compliance",
     anchor: "registration",
     bg: cr2,
     items: [
-      "Company formation and registration (PVTS, partnerships, trusts, NGOs)",
+      "Company formation, registration and re-registration (PVTS, partnerships, trusts, NGOs)",
       "Business licensing and permits",
       "Tax compliance (ZIMRA registrations, returns, audits)",
       "Compliance audits and gap analysis",
